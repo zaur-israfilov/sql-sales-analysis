@@ -25,8 +25,7 @@ psql -f sql/analysis.sql
 ---
 
 ## Tools
-- SQL
-- GitHub
+• SQL (PostgreSQL)
 
 ---
 
