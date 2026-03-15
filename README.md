@@ -50,7 +50,9 @@ psql -f sql/analysis.sql
 ---
 
 ## SQL Queries
-See: `sql/analysis.sql`
+
+See the full SQL analysis here:
+`sql/analysis.sql`
 
 ---
 
