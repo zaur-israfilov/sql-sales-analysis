@@ -1,6 +1,7 @@
 -- =====================================================
 -- SQL Sales Analysis
 -- Restaurant dataset analytical queries
+-- Author: Zaur Israfilov
 -- =====================================================
 
 
@@ -52,7 +53,7 @@ ORDER BY revenue DESC;
 
 -- 7. Average tip percentage
 SELECT
-    ROUND(AVG(tip / total_bill) * 100, 2) AS avg_tip_percentage
+    ROUND(AVG(tip / NULLIF(total_bill, 0)) * 100, 2) AS avg_tip_percentage
 FROM sales;
 
 
