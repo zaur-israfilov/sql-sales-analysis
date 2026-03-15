@@ -2,10 +2,17 @@
 
 SQL analysis of a sales dataset to extract business insights.
 
----
+## Business Context
+This project analyzes restaurant transaction data to understand
+customer spending behavior, tipping patterns, and revenue distribution
+across days and meal times.
+
+The goal is to extract insights that could help restaurant managers
+optimize operations and better understand customer behavior.
 
 ## Dataset
-- File: `data/sales_data.csv`
+
+- File: data/sales_data.csv
 - Rows: ~245
 - Columns: total_bill, tip, sex, smoker, day, time, size
 
