@@ -2,6 +2,8 @@
 
 SQL analysis of a sales dataset to extract business insights.
 
+---
+
 ## Business Context
 This project analyzes restaurant transaction data to understand
 customer spending behavior, tipping patterns, and revenue distribution
