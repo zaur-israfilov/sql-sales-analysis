@@ -12,6 +12,8 @@ across days and meal times.
 The goal is to extract insights that could help restaurant managers
 optimize operations and better understand customer behavior.
 
+---
+
 ## Dataset
 
 - File: data/sales_data.csv
