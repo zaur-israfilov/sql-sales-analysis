@@ -57,6 +57,11 @@ The dataset used in this project is the **Superstore sales dataset**, where each
 
 ---
 
+## Data Source
+The dataset is included in this repository under `data/raw/` for reproducibility.
+
+---
+
 ## Tools Used
 
 * SQL (PostgreSQL / MySQL / SQLite)
