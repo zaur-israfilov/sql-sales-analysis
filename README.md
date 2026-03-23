@@ -1,8 +1,12 @@
+> A business-focused SQL analysis of retail sales data aimed at uncovering profitability issues and performance drivers.
+
 # SQL Sales Analysis
 
 ## Project Overview
 
 This project analyzes the **Superstore retail dataset** using SQL to answer key business questions related to sales performance, profitability, discount impact, and regional dynamics.
+
+This project focuses specifically on identifying profitability issues and understanding the underlying business drivers behind revenue and margin performance.
 
 It is part of a broader analytics portfolio built on the same dataset, where:
 
@@ -54,6 +58,17 @@ The dataset used in this project is the **Superstore sales dataset**, where each
 * Transaction-level data
 * Multi-dimensional (product, customer, geography, time)
 * Suitable for profitability and performance analysis
+
+---
+
+## Business Impact
+
+Based on the analysis, the following actions can improve business performance:
+
+- Reduce excessive discounting on low-margin products
+- Focus on high-profit categories instead of high-revenue but low-margin items
+- Investigate and optimize underperforming regions
+- Review loss-making products for pricing or discontinuation
 
 ---
 
