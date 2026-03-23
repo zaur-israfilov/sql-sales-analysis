@@ -6,6 +6,8 @@
 
 This project analyzes the **Superstore retail dataset** using SQL to answer key business questions related to sales performance, profitability, discount impact, and regional dynamics.
 
+This project focuses specifically on identifying profitability issues and understanding the underlying business drivers behind revenue and margin performance.
+
 It is part of a broader analytics portfolio built on the same dataset, where:
 
 * SQL is used for structured analysis,
